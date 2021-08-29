@@ -13,6 +13,6 @@ vim /opt/google/archive/source/google-chrome  修改启动脚本以支持root用
 ```
 
 # Chromium开发工具
-[Chromium depot tools](git clone https://chromium.googlesource.com/chromium/tools/depot_tools.git)
+[Chromium depot tools](https://chromium.googlesource.com/chromium/tools/depot_tools)
 
 
